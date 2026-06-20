@@ -1,7 +1,7 @@
 # Hospital Management System Analytics 🏥
 
 ## 📌 Project Overview
-Welcome to my first data analytics portfolio project! This project demonstrates how database management and data visualization can optimize healthcare operations. Using **MySQL** for data extraction and **Tableau** for visual storytelling, I analyzed a hospital management database containing tracking records for patients, doctor specialties, room capacities, and prescriptions to uncover critical operational insights[cite: 1, 2].
+Welcome to my first data analytics portfolio project! This project demonstrates how database management and data visualization can optimize healthcare operations. Using **MySQL** for data extraction and **Tableau** for visual storytelling, I analyzed a hospital management database containing tracking records for patients, doctor specialties, room capacities, and prescriptions to uncover critical operational insights.
 
 📊 **[View Interactive Tableau Dashboard Here](https://public.tableau.com/views/HospitalManagement_17750413382830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
